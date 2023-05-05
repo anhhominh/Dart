@@ -14,3 +14,4 @@ void main() {
     test("maxMultiple(7, 100)", () => expect(maxMultiple(7, 100), equals(98)));
   });
 }
+
